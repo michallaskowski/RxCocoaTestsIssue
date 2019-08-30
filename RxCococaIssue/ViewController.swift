@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import RxCocoa
 
 class ViewController: UIViewController {
 
